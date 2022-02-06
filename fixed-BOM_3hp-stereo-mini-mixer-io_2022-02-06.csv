@@ -1,0 +1,6 @@
+ID,Name,Designator,Footprint,Quantity,Notes
+1,X4611WV-05I-C28D40,"H1, H2",HDR-TH_5P-P2.00-V-M,2,https://www.taydaelectronics.com/connectors-sockets/pin-headers/5-pin-2-00-mm-single-row-female-pin-header.html
+2,THONKICONN,"IN-L-1, IN-R-1, IN-L-2, IN-R-2",THONKICONN-TIGHT,4,
+3,22k,"R1, R2, R9, R10",R0805,4,
+4,THONKI-STEREO,U6,THONKICONN_GREEN_STEREO-TIGHT,1,
+5,ALPHA-9MM-DUALPOT A10K,"OUT, IN-1, IN-2",DUAL_9MM_SNAP-IN_POT-TIGHT,3,

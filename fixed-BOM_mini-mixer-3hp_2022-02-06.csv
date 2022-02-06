@@ -1,0 +1,20 @@
+ID,Name,Designator,Footprint,Quantity,Notes
+1,100uF 10v NP,"C1, C3, C5, C6, C18, C19, C20, C21",CAP-D6.3-F2.5,8,Bipolar! I use these: https://www.mouser.com/ProductDetail/Nichicon/UEP1A101MED?qs=sGAEpiMZZMtJuH53xR2FXDEhGspApL1C&countrycode=US&currencycode=USD
+2,1uF,"C2, C10, C11",C0805,3,
+3,0.1uF,"C4, C24, C25",C0805,3,
+4,10uF,C7,CAP-D5.0×F2.0,1,
+5,10uF,"C12, C13",C0805,2,
+6,100pF,"C14, C15, C16, C17, C22, C23",C0805,6,
+7,1N5819,"D1, D2",SOD-123_FOR-5819,2,
+8,Ferrite,"F1, F2",R0805,2,
+9,X4611WV-05I-C28D40,"H1, H2",HDR-TH_5P-P2.00-V-M,2,https://www.taydaelectronics.com/connectors-sockets/pin-headers/40-pin-2-00-mm-single-row-pin-header-strip.html
+10,IDC Box 2.54mm 2X5P,P3,EURO_PWR_HEADER_LOCK,1,IDC Box 2.54mm 2X5P
+11,15k,"R4, R21",R0805,2,
+12,22k,"R5, R6, R7, R8, R19, R20",R0805,6,
+13,220k,"R11, R12, R15, R16",R0805,4,
+14,4.7k,"R13, R14",R0805,2,
+15,TPA6111A2DR,U1,SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL,1,
+16,MCP1703AT-5002E/CB,U7,SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR,1,
+17,OPA1612AIDR,U9,SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL,1,
+18,standoff,,1/4” 4-40,1,https://www.mouser.com/ProductDetail/761-2053-440-AL-7
+19,screw,,3/16” 4-40,2,
